@@ -1,0 +1,13 @@
+.btn {
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+
+  display: flex;
+  justify-content: space-between;
+}
+.btn>Button {
+  border: 1px solid rgb(81, 57, 147);
+  width: 150px;
+
+}

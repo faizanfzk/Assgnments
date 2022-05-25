@@ -1,0 +1,43 @@
+.h2{
+    margin-top: 10%;
+}
+.r1{
+   
+    width: 20%;
+    margin-left: 25%;
+}
+.p2{
+    font-size: 40px;
+    font-weight: bold;
+}
+.box{
+    width: 50%;
+    border: 2px solid rgb(94, 107, 210);
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius:10px;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 2%;
+    display: flex;
+    justify-content: space-between;
+}
+.box:hover{
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.box1{
+    width: 50%;
+    border: 2px solid wheat;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius:10px;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 2%;
+    display: flex;
+    justify-content: space-between;
+}
+.box1:hover{
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.leftp{
+    display: flex;
+}
